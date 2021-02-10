@@ -1,0 +1,48 @@
+no_of_values for x= 2 
+no of values for y= 2
+probability distribution list: [[0.4, 0.6], [0.5, 0.5]]
+
+
+Intermediate results:
+
+Marginal probablilities:
+for x:
+g[0]= 0.9
+g[1]= 1.1
+
+for y
+h[0]= 1.0
+h[1]= 1.0
+
+mu_x=E(x)= 1.0*0.9 + 3.0*1.1 
+mu_y=E(y)= 1.0*1.0 + 2.0*1.0 
+E[g(x,y)]= 2.0*0.4 + 10.0*0.6 + 5.0*0.5 + 13.0*0.5 
+
+Results:
+E[x]=  4.2
+E[y]=  3.0
+E[g(x,y)]=  15.8
+no_of_values for x= 2 
+no of values for y= 2
+probability distribution list: [[0.4, 0.6], [0.5, 0.5]]
+
+
+Intermediate results:
+
+Marginal probablilities:
+for x:
+g[0]= 0.9
+g[1]= 1.1
+
+for y
+h[0]= 1.0
+h[1]= 1.0
+
+mu_x=E(x)= 1.0*0.9 + 3.0*1.1 
+mu_y=E(y)= 1.0*1.0 + 2.0*1.0 
+E[g(x,y)]= 2.0*0.4 + 10.0*0.6 + 5.0*0.5 + 13.0*0.5 
+
+Results:
+E[x]=  4.2
+E[y]=  3.0
+E[g(x,y)]=  15.8

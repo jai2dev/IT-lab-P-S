@@ -1,0 +1,12 @@
+Intermediate result are:
+
+
+Mean
+ 52.30769230769231
+
+Standard Deviation
+ 25.16219574430173
+Inflation point 1:
+ 27.145496563390576
+Inflation point 2:
+ 77.46988805199403

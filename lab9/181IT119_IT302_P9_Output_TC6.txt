@@ -1,0 +1,18 @@
+Intermediate result are:
+
+
+Binomial Probability
+ 9.655501398420085e-11
+
+Mean
+ 27.5
+
+Standard Deviation
+ 3.7080992435478315
+
+Continuity Correction Factor
+ 0.5
+Normal Approximation Probability:
+ 1.2099965474021701e-09
+Error = Binomial Probability - Normal Approximation Probability:
+ -1.1134415334179693e-09

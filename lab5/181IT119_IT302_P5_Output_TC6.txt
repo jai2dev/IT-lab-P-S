@@ -1,0 +1,6 @@
+
+f(7,1): 0.5
+f(7,5): 0.9
+Expected value of g (X, Y) = 2XY for f(x,y): 70.0
+μX : 9.8
+μY : 5.0
